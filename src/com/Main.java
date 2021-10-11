@@ -10,4 +10,9 @@ public class Main {
     {
         System.out.println("Check out");
     }
+
+    public static void printOut()
+    {
+        System.out.println("Print Out!!!!!");
+    }
 }
