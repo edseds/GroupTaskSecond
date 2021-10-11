@@ -3,16 +3,12 @@ package com;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!!");
+        name();
     }
 
-    public static void checkout()
+    public static void name()
     {
-        System.out.println("Check out");
+        System.out.println("Name");
     }
 
-    public static void printOut()
-    {
-        System.out.println("Print Out!!!!!");
-    }
 }
